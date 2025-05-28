@@ -1,6 +1,6 @@
 version: '3'
 services:
   app:
-    build: ./07-docker-and-deployment/docker
+    build: ./Section_7_Advanced_Patterns_and_Optimization/docker
     ports:
       - '8501:8501'
