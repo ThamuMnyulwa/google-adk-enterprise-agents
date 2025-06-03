@@ -1,1 +1,181 @@
+# Google ADK Enterprise Course License
+
+## Educational Use License
+
+**Course:** Google ADK Mastery: Build Enterprise Multi-Agent AI Systems  
+**Author:** Pragati Kunwer  
+**Repository:** https://github.com/pragatidev/google-adk-enterprise-agents  
+**Copyright:** © 2024 Pragati Kunwer. All rights reserved.
+
+---
+
+## 📚 Course Content License
+
+### **Permitted Educational Use**
+
+You are granted permission to use this course content under the following conditions:
+
+✅ **Personal Learning** - Use for your own education and skill development  
+✅ **Portfolio Projects** - Include completed projects in your professional portfolio  
+✅ **Academic Use** - Reference in academic coursework with proper attribution  
+✅ **Corporate Training** - Use within your organization for internal team development  
+✅ **Interview Preparation** - Showcase projects during job interviews  
+
+### **Attribution Requirements**
+
+When using course content, please include:
+```
+Source: "Google ADK Mastery" by Pragati Kunwer
+Original Repository: https://github.com/pragatidev/google-adk-enterprise-agents
+Instructor: Pragati Kunwer (https://www.linkedin.com/in/pragatikunwer/)
+```
+
+### **Restricted Uses**
+
+❌ **Commercial Training** - Cannot resell or redistribute as paid training content  
+❌ **Content Copying** - Cannot republish course materials as your own work  
+❌ **Competitive Courses** - Cannot use to create competing educational products  
+❌ **Unauthorized Distribution** - Cannot share complete course materials publicly  
+
+---
+
+## 💻 Code Examples License (MIT)
+
+The code examples, notebooks, and implementation patterns in this repository are licensed under the **MIT License**:
+
+```
 MIT License
+
+Copyright (c) 2024 Pragati Kunwer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+### **What This Means for Code:**
+
+✅ **Use Freely** - Implement patterns in your own projects  
+✅ **Modify** - Adapt code for your specific business needs  
+✅ **Commercial Use** - Include in commercial applications  
+✅ **Share** - Contribute improvements back to the community  
+✅ **No Attribution Required** - For code implementations (though appreciated)  
+
+---
+
+## 🤝 Community Guidelines
+
+### **Encouraged Sharing**
+
+✅ **Project Screenshots** - Share your completed systems on social media  
+✅ **Success Stories** - Post about career advancement achieved through the course  
+✅ **Code Improvements** - Submit pull requests with enhancements  
+✅ **Community Support** - Help other learners in discussions and Q&A  
+
+### **Academic Integrity**
+
+If using course content in academic settings:
+- ✅ **Cite properly** - Include full attribution as specified above
+- ✅ **Original work** - Build upon concepts rather than copying solutions
+- ✅ **Collaboration** - Follow your institution's collaboration policies
+
+---
+
+## 📋 Third-Party Dependencies
+
+This course uses various open-source libraries and tools:
+
+- **Google ADK** - Subject to Google's terms of service
+- **Python Libraries** - Each under their respective licenses (see requirements.txt)
+- **Jupyter Notebooks** - BSD License
+- **Docker** - Apache 2.0 License
+
+Please ensure compliance with all applicable licenses when deploying course projects.
+
+---
+
+## 🎯 Commercial Licensing
+
+For commercial use beyond the scope of this license:
+
+**Training Organizations** - Contact for enterprise licensing options  
+**Corporate Workshops** - Licensing available for large-scale deployment  
+**Consulting Services** - Custom implementations and training available  
+
+Contact: [course@pragatikunwer.com](mailto:course@pragatikunwer.com)
+
+---
+
+## ⚖️ Legal Disclaimer
+
+### **No Warranty**
+
+This course content is provided "as is" without warranty of any kind. The author makes no representations about the accuracy, reliability, completeness, or timeliness of the content.
+
+### **Limitation of Liability**
+
+In no event shall Pragati Kunwer be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of this course content.
+
+### **Industry Changes**
+
+Google ADK and AI technologies evolve rapidly. While course content is current as of publication date, some techniques or APIs may become outdated. Students are encouraged to check official documentation for the latest practices.
+
+---
+
+## 🔄 License Updates
+
+This license may be updated periodically to reflect:
+- Changes in educational best practices
+- Updates to third-party tool licensing
+- Community feedback and usage patterns
+
+Major changes will be announced through:
+- Repository notifications
+- Course community channels
+- Instructor social media
+
+---
+
+## 📞 Questions About Licensing?
+
+**Educational Use Questions:**  
+- GitHub Issues: [Open an issue](https://github.com/pragatidev/google-adk-enterprise-agents/issues)
+- Course Q&A: Post in Udemy course discussion
+
+**Commercial Licensing:**  
+- Email: [course@pragatikunwer.com](mailto:course@pragatikunwer.com)
+- LinkedIn: [Connect with Pragati](https://www.linkedin.com/in/pragatikunwer/)
+
+**Code Implementation Support:**  
+- Discord Community: [Join our community](https://discord.gg/adk-enterprise)
+- Office Hours: Weekly sessions (schedule in course materials)
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to:
+- **Google** - For developing the ADK platform
+- **Open Source Community** - For the amazing libraries that power these examples
+- **Course Students** - For feedback that continuously improves the content
+- **Enterprise Partners** - For real-world use case validation
+
+---
+
+**Last Updated:** December 2024  
+**License Version:** 1.0  
+**Contact:** Pragati Kunwer - [pragatikunwer.com](https://pragatikunwer.com)
