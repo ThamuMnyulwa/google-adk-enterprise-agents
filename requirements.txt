@@ -1,10 +1,67 @@
+# =============================================================================
+# Google ADK Course - Multi-Provider Requirements
+# Following AI Agent Bootcamp Success Pattern: Start FREE, Scale Smart
+# Curated for course success - no bloat, only essentials
+# Windows-compatible encoding (no emojis)
+# =============================================================================
+
+# Google ADK Framework (Core)
 google-adk
+google-generativeai
+google-ai-generativelanguage
+google-api-core
+google-auth
+
+# Local AI Development (FREE - Primary Learning Path)
+ollama
+
+# Major Cloud Providers
+openai
+anthropic
+
+# Additional Cloud Providers
+groq
+together
+mistralai
+cohere
+
+# Multi-Provider Interface & Routing
+litellm
+
+# Azure OpenAI (Enterprise)
+openai
+azure-identity
+
+# Environment & Configuration Management
 python-dotenv
+pydantic
+pydantic-settings
+
+# HTTP & API Clients (Essential)
+requests
+httpx
+aiohttp
+
+# Development & Jupyter Environment (Minimal)
 jupyter
 ipykernel
+
+# Data Processing (Essential Only)
 pandas
 numpy
-requests
-matplotlib
-seaborn
+
+# Logging & Output Enhancement
 rich
+
+# Security & Authentication (Core)
+cryptography
+
+# Token Counting & Cost Management
+tiktoken
+
+# Additional Utilities
+typing-extensions
+
+# Testing (Optional - Remove if not needed)
+pytest
+pytest-asyncio
