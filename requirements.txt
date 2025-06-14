@@ -6,10 +6,10 @@
 # =============================================================================
 
 # Google ADK Framework (Core)
-google-adk
-google-generativeai
-google-ai-generativelanguage
-google-api-core
+google-adk==1.3.0
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.15
+google-api-core==2.25.1
 google-auth
 
 # Local AI Development (FREE - Primary Learning Path)
