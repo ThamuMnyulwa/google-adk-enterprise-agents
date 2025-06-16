@@ -65,3 +65,5 @@ typing-extensions
 # Testing (Optional - Remove if not needed)
 pytest
 pytest-asyncio
+
+sentence-transformers
