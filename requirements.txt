@@ -48,7 +48,7 @@ ipykernel
 
 # Data Processing (Essential Only)
 pandas
-numpy
+numpy>=1.21.0,<2.0.0
 
 # Logging & Output Enhancement
 rich
@@ -67,3 +67,4 @@ pytest
 pytest-asyncio
 
 sentence-transformers
+faiss-cpu
