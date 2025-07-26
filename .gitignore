@@ -44,3 +44,7 @@ credentials.json
 service-account.json
 *.pem
 *.key
+
+# -------------------------------------
+# UV specific
+uv.lock
